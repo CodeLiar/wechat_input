@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<form bindsubmit='submit'>
+<input placeholder='输入一'></input>
+<input placeholder='输入二'></input>
+<input placeholder='输入三'></input>
+<button form-type='submit'>提交</button>
+</form>
